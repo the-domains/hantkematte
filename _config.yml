@@ -1,0 +1,14 @@
+layout_spectrum: 0.8902563110459596
+typography_spectrum: 0.334086658898741
+color:
+  brandStrength: 0.633910242235288
+  lightness: 0.23452310031279922
+  saturation: 0.4316867964807898
+  rhythmicContrast: 0.37034118035808206
+  brandColors:
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
+name: hantkematte
